@@ -90,7 +90,7 @@ public class TCFDemo {
 
 
 <p align="center">
-有收获的话，就分享给更多的朋友把<br/>
+有收获的话，就分享给更多的朋友吧<br/>
 <b>关注「深夜里的程序猿」，分享最干的干货</b>
 </p>
 <p align="center">
