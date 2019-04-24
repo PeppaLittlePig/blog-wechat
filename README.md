@@ -6,6 +6,7 @@
 
 ### 文章列表
 
+《[程序猿必知必会Linux命令之awk](/article/程序猿必知必会Linux命令之awk.md)》  
 《[Java日志正确使用姿势](/article/Java日志正确使用姿势.md)》  
 《[使用ConcurrentHashMap一定线程安全？](/article/使用ConcurrentHashMap一定线程安全？.md)》  
 《[大白话搞懂什么是同步/异步/阻塞/非阻塞](/article/大白话搞懂什么是同步,异步,阻塞,非阻塞.md)》  
