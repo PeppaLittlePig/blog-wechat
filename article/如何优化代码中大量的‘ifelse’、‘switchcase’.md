@@ -172,4 +172,3 @@ if(command.equals("login")){
 </p>
 <p align="center">
 <img src="/resource/qrcode.png" alt="Sample"  width="200" height="200">
-</p>                                                                                                                                                                                                    ![](https://user-gold-cdn.xitu.io/2019/4/17/16a28c18805b08e1?w=200&h=200&f=png&s=7078)
