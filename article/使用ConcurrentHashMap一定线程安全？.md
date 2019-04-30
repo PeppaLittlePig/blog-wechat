@@ -105,7 +105,7 @@ public class CHMDemo {
 
 #### 推荐阅读
 
-《[大白话搞懂什么是同步/异步/阻塞/非阻塞](https://mp.weixin.qq.com/s/IT13vku21IMPv4aHuHG9lQ)》  
+《[大白话搞懂什么是同步/异步/阻塞/非阻塞](https://mp.weixin.qq.com/s/TW82I31CVRbKOwJGnTTP8A)》  
 《[Java异常处理最佳实践及陷阱防范](https://mp.weixin.qq.com/s/zeGqY0ZcrU_oOHpVW9V3zQ)》    
 《[论JVM爆炸的几种姿势及自救方法](https://mp.weixin.qq.com/s/2oLX-i5zbTNayjJzAOSN8A)》    
 《[解放程序员双手之Supervisor](https://mp.weixin.qq.com/s/cMvrhqSJrNBYoq5NJqTT5w)》   
