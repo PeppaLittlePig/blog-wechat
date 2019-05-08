@@ -6,6 +6,7 @@
 
 ### 文章列表
 
+《[Java制作字符动画](/article/Java制作字符动画.md)》 
 《[轻松搞懂Java中的自旋锁](/article/轻松搞懂Java中的自旋锁.md)》   
 《[如何优化代码中大量的if/else,switch/case?](/article/如何优化代码中大量的‘ifelse’、‘switchcase’.md)》  
 《[如何提高使用Java反射的效率？](/article/如何提高使用Java反射的效率？.md)》  
