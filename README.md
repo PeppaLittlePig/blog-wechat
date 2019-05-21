@@ -6,6 +6,7 @@
 
 ### 文章列表
 
+《[聊聊Java里常用的并发集合](/article/聊聊Java里常用的并发集合.md)》  
 《[文本相似度计算之余弦定理](/article/文本相似度计算之余弦定理.md)》   
 《[Java制作字符动画](/article/Java制作字符动画.md)》   
 《[轻松搞懂Java中的自旋锁](/article/轻松搞懂Java中的自旋锁.md)》   
